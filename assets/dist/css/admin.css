@@ -1,0 +1,21 @@
+.nav-link:hover{
+	background-color: #D8D3D3;;
+}
+.display-4{
+	font-weight: bold;
+}
+.card-body-ikon{
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 4px;
+	opacity: 0.4;
+	font-size: 80px;
+
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+	margin-left: 10px;
+}

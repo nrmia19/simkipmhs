@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.banner{ 
+height:80vh;
+background: url('../../../image/uninus.jpg');
+background-size: cover;
+background-position: center;
+ }
+.banner-content{
+	height: 100%;
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Ultra', Serif;
+	padding-top: 10px;
+}
+.footer{
+    background-color: #000000;
+    width:100%;
+}
+.footer .container{
+	color: #ffffff;
+}
